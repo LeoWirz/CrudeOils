@@ -1,0 +1,10 @@
+GBR = GradientBoostingRegressor(
+    learning_rate=0.1,
+    n_estimators=60,
+    max_features=15,
+    max_depth=9,
+    min_samples_leaf=400,
+    subsample=0.8,
+    random_state=10)
+
+no preprocessing

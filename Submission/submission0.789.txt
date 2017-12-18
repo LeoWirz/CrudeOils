@@ -1,0 +1,2 @@
+no preprocessing
+GradientBoostingRegressor(learning_rate=0.05,min_samples_split=80,min_samples_leaf=50,max_depth=8,max_features=sqrt,subsample=0.8,random_state=10)
